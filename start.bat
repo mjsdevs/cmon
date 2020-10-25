@@ -1,1 +1,2 @@
-gcc index.c -o index && index.exe
+gcc index.c -o index
+index.exe
